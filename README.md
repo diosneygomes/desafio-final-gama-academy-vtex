@@ -111,20 +111,20 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 :ballot_box_with_check: <a href="https://github.com/diosneygomes/desafio-final-api-vtex">Link do reposítorio do projeto API VTEX IO</a>
 
 
-<a id="ancora1"></a>
+<a id="ancora4"></a>
 # Equipe
 
 :pouting_woman: Natália Tavares Ribeiro - | <a href="">Linkedin</a> | <a href ="">Github</a> |
 
 :pouting_woman: Cristina - | <a href="">Linkedin</a> | <a href ="">Github</a> |
 
-:pouting_man: Rogerio Goussain Labat - | <a href="">Linkedin</a> | <a href ="">Github</a> |
+:pouting_man: Rogério Goussain Labat - | <a href="https://www.linkedin.com/in/rogerio-goussain-labat-1405207/">Linkedin</a> | <a href ="https://github.com/rogeriolabat">Github</a> |
 
 :pouting_man: Ângelo Pietro Rosa Rodrigues - | <a href="">Linkedin</a> | <a href ="">Github</a> |
 
 :pouting_man: Michel Lavanere - | <a href="">Linkedin</a> | <a href ="">Github</a> |
 
-:pouting_man: Jonatas Venancio - | <a href="">Linkedin</a> | <a href ="">Github</a> |
+:pouting_man: Jonatas Venancio - | <a href="https://www.linkedin.com/in/jonatas-venancio-dev/">Linkedin</a> | <a href ="https://github.com/jovenan">Github</a> |
 
 :pouting_man: Diósney Ferreira Gomes - | <a href="https://www.linkedin.com/in/diosneygomes">Linkedin</a> | <a href ="https://github.com/diosneygomes">Github</a> |
 
