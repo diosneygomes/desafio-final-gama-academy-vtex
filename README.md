@@ -132,4 +132,4 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 
 :pouting_man: Lobão - | <a href="">Linkedin</a> | <a href ="">Github</a> |
 
-
+![logo-corebiz](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/LOGO_COREBIZ.png)
