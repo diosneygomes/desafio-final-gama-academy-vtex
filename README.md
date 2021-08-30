@@ -122,7 +122,7 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 
 :pouting_man: Ângelo Pietro Rosa Rodrigues - | <a href="">Linkedin</a> | <a href ="">Github</a> |
 
-:pouting_man: Michel Lavanere - | <a href="">Linkedin</a> | <a href ="">Github</a> |
+:pouting_man: Michel Lavanere - | <a href="https://www.linkedin.com/in/michel-sampaio/">Linkedin</a> | <a href ="https://github.com/Lavanere">Github</a> |
 
 :pouting_man: Jonatas Venancio - | <a href="https://www.linkedin.com/in/jonatas-venancio-dev/">Linkedin</a> | <a href ="https://github.com/jovenan">Github</a> |
 
