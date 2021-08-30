@@ -27,84 +27,14 @@ O desafio consiste em construir 2 APIs **(VTEX IO API e AWS API Gateway)** e um 
 Para a construção da solução do projeto, criamos uma loja fictícia onde é colocado à venda serviços oferecidos pela empresa Corebiz. São eles;
 
 * **Accelerators**
-* * Magento 2 Accelerator
-* * Magento 2 Accelerator
-* * T. SalesForce Marketing Cloud with Magento & Vtex
-* **OmniChannel products**
-* * Ecommerce app IOS Android
-* * Grocery app IOS Android
-* * Franshising app IOS Android
-* * Online2Store
-* **Technology**
-* * CMS configuration and implementation:
-* * Adobe
-* * Microsoft Sharepoint
-* * Drupal
-* * WordPress
-* * Custom App development for iOS, Android
-* **BI & Data Analytics**
-* * Integrations PowerBI x Plataforms
-* * Conversion funnel analysis
-* * KPI specific dashboards &amp; custom reports
-* * Monthly analysis, reporting and recommendations
-* **Digital Production**
-* *  Creative
-* *  Design System
-* *  Copywriting
-* *  Digital production
-* *  Motion graphics & VFX
-* *  Pre media production
-*  **Performance & Digital Mkt**
-* * PPC, Google shopping, Faceads
-* * Search Engine Optimization
-* * Affiliate Networks
-* * Off-page Support
-* * Email Strategy and execution
-* * Online Shopping Channel Management
-*  **BI & Data Analytics**
-* * Integrations PowerBI x Plataforms
-* * Conversion funnel analysis
-* * KPI specific dashboards & custom reports
-* * Monthly analysis, reporting and recommendations
-*  **Customer Journey Optimization**
-* * User Experience audit
-* * A/B & MV testingt
-* * Conversion funnel analysis
-* * Competitive intelligence
-* * Heatmap implementation & analysis
-* * User testing
-* * Heuristic Evaluation
-* **Ongoin & Channel Evolution**
-* * Front-End Development
-* * Vtex development
-* * Magento development
-* * Plataform extensions
-* * Technical assistance
-* **Consulting**
-* * Platform evaluation
-* * Technology evalutation
-* * Omninchannel mapping
-* * Experience definition
-* **Data Driven Experience**
-* * User-centered design
-* * Customer-centric design
-* * User research & site analytics
-* * Persona & scenario modeling
-* * Information architecture
-* * Wireframing & prototyping
-* * Heuristic Evaluation
-* * Website accessibility
-* * Concept development
-* * Interactive design
-* **Platform Implementation**
-* * Systems integrator for Vtex, Magento & Hybris
-* * B2C and B2B implementations
-* * Technical roadmaps and platform assessments
-* * Integration with ERP, OMS and CRM systems
-* * Configuration and integrations
+* **Começando ou fazendo upgrade do seu canal de vendas**
+* **Aumente a taxa de conversão**
+* **Marketing de Performance**
+* **Projetos OmniChannel**
+
 
 <a id="ancora3"></a>
-# Links dos Projetos
+# :link: Links dos Projetos
 
 :ballot_box_with_check: <a href="https://github.com/devlobao84/oficial-desafio-corebiz.git">Projeto Front-End - React</a>
 
@@ -112,7 +42,7 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 
 
 <a id="ancora4"></a>
-# Equipe
+# :1st_place_medal: Equipe
 
 :pouting_woman: Natália Tavares Ribeiro - | <a href="">Linkedin</a> | <a href ="">Github</a> |
 
@@ -131,5 +61,7 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 :pouting_man: Renato Tadeu - | <a href="https://www.linkedin.com/in/renato-tadeu-a7b935213/">Linkedin</a> | <a href ="https://github.com/rtof83">Github</a> |
 
 :pouting_man: Lobão - | <a href="">Linkedin</a> | <a href ="">Github</a> |
+
+:pouting_man: Pietro - | <a href="">Linkedin</a> | <a href ="">Github</a> |
 
 ![logo-corebiz](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/LOGO_COREBIZ.png)
