@@ -106,7 +106,7 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 <a id="ancora3"></a>
 # Links dos Projetos
 
-:ballot_box_with_check: <a href="https://github.com/devlobao84/desafio-0318-hcnew">Projeto Front-End - React</a>
+:ballot_box_with_check: <a href="https://github.com/devlobao84/oficial-desafio-corebiz.git">Projeto Front-End - React</a>
 
 :ballot_box_with_check: <a href="https://github.com/diosneygomes/desafio-final-api-vtex">Link do reposítorio do projeto API VTEX IO</a>
 
