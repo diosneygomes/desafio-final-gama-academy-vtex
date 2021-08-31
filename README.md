@@ -44,13 +44,13 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 <a id="ancora4"></a>
 # :1st_place_medal: Equipe
 
-:pouting_woman: Natália Tavares Ribeiro - | <a href="">Linkedin</a> | <a href ="">Github</a> |
+:pouting_woman: Natália Tavares Ribeiro - | <a href="https://www.linkedin.com/in/natalia-tavares-">Linkedin</a> | <a href ="https://github.com/natalia-tavares">Github</a> |
 
-:pouting_woman: Cristina - | <a href="">Linkedin</a> | <a href ="">Github</a> |
+:pouting_woman: Cristina - | <a href="https://www.linkedin.com/in/cristina-d">Linkedin</a> | <a href ="https://github.com/crisgit">Github</a> |
 
 :pouting_man: Rogério Goussain Labat - | <a href="https://www.linkedin.com/in/rogerio-goussain-labat-1405207/">Linkedin</a> | <a href ="https://github.com/rogeriolabat">Github</a> |
 
-:pouting_man: Ângelo Pietro Rosa Rodrigues - | <a href="">Linkedin</a> | <a href ="">Github</a> |
+:pouting_man: Ângelo Pietro Rosa Rodrigues - | <a href="https://www.linkedin.com/in/angelopietro/">Linkedin</a> | <a href ="https://github.com/angelopietro">Github</a> |
 
 :pouting_man: Michel Lavanere - | <a href="https://www.linkedin.com/in/michel-sampaio/">Linkedin</a> | <a href ="https://github.com/Lavanere">Github</a> |
 
@@ -60,8 +60,6 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 
 :pouting_man: Renato Tadeu - | <a href="https://www.linkedin.com/in/renato-tadeu-a7b935213/">Linkedin</a> | <a href ="https://github.com/rtof83">Github</a> |
 
-:pouting_man: Lobão - | <a href="">Linkedin</a> | <a href ="">Github</a> |
-
-:pouting_man: Pietro - | <a href="">Linkedin</a> | <a href ="">Github</a> |
+:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
 ![logo-corebiz](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/LOGO_COREBIZ.png)
