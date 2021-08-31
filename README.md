@@ -46,7 +46,7 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 
 :pouting_woman: Natália Tavares Ribeiro - | <a href="https://www.linkedin.com/in/natalia-tavares-">Linkedin</a> | <a href ="https://github.com/natalia-tavares">Github</a> |
 
-:pouting_woman: Cristina - | <a href="https://www.linkedin.com/in/cristina-d">Linkedin</a> | <a href ="https://github.com/crisgit">Github</a> |
+:pouting_woman: Cristina Dias - | <a href="https://www.linkedin.com/in/cristina-d">Linkedin</a> | <a href ="https://github.com/crisgit">Github</a> |
 
 :pouting_man: Rogério Goussain Labat - | <a href="https://www.linkedin.com/in/rogerio-goussain-labat-1405207/">Linkedin</a> | <a href ="https://github.com/rogeriolabat">Github</a> |
 
@@ -60,6 +60,6 @@ Para a construção da solução do projeto, criamos uma loja fictícia onde é 
 
 :pouting_man: Renato Tadeu - | <a href="https://www.linkedin.com/in/renato-tadeu-a7b935213/">Linkedin</a> | <a href ="https://github.com/rtof83">Github</a> |
 
-:pouting_man: Lobão - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
+:pouting_man: Jonas Lobo - | <a href="https://www.linkedin.com/in/jonaslobo/">Linkedin</a> | <a href ="https://github.com/devlobao84">Github</a> |
 
 ![logo-corebiz](https://github.com/diosneygomes/desafio-final-gama-academy-vtex/blob/main/LOGO_COREBIZ.png)
